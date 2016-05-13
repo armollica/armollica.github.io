@@ -1,0 +1,81 @@
+html {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.container {
+  margin: auto;
+  margin-top: 100px;
+  max-width: 700px;
+}
+
+img {
+  border-radius: 7px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.heading h1 {
+  font-size: 2.5em;
+}
+
+.heading img {
+  float: left;
+  width: 210px;
+  margin: 10px 30px 30px 0;
+}
+
+.heading p {
+  text-indent: 2em;
+}
+
+.references {
+  clear: both;
+  margin-top: 20px;
+}
+
+.references ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.references li {
+  display: inline;
+}
+
+.references li+li:before {
+  content: "|";
+}
+
+.references i {
+  padding-left: 7px;
+  padding-right: 3px;
+}
+
+section.projects {
+  margin-top: 100px;
+}
+
+.projects img {
+  width: 250px;
+  margin-right: 40px;
+}
+
+.projects table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.projects td {
+  padding: 30px 0;
+}
+
+.projects tr+tr td {
+  border-top: 1px solid #eee;
+}
+
+.projects td+td {
+  vertical-align: text-top;
+}
