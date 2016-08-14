@@ -114,7 +114,7 @@ d3.json("data/projects-full.json", function(error, projectsData) {
   // ...for Desktops
   imgContainer.append("img")
     .attr("class", "visible-md visible-lg")
-    .attr("src", function(d) { return "img/desktop/" + d.name + ".png"; })
+    .attr("src", function(d) { return "img/desktop-" + d.name + ".png"; })
     .attr("alt", function(d) { return d.name; })
     .style("object-fit", "cover")
     .style("width", "100%")
@@ -123,7 +123,7 @@ d3.json("data/projects-full.json", function(error, projectsData) {
   // ...for phones and tablets
   imgContainer.append("img")
     .attr("class", "visible-xs visible-sm")
-    .attr("src", function(d) { return "img/mobile/" + d.name + ".png"; })
+    .attr("src", function(d) { return "img/mobile-" + d.name + ".png"; })
     .attr("alt", function(d) { return d.name; })
     .style("object-fit", "cover")
     .style("width", "100%")
