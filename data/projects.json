@@ -1,0 +1,77 @@
+[
+  {
+    "name": "scattered-well-being",
+    "title": "Scattered Well-Being",
+    "link": "http://armollica.github.io/scattered-well-being/"
+  },
+  {
+    "name": "html-annotation",
+    "title": "HTML Annotation",
+    "link": "http://bl.ocks.org/armollica/78894d0b3cbd46d8d8d19d135c6ca34d"
+  },
+  {
+    "name": "voters-of-wisconsin",
+    "title": "Voters of Wisconsin",
+    "link": "http://armollica.github.io/wi-voters/"
+  },
+  {
+    "name": "d3-force-chart",
+    "title": "d3.forceChart",
+    "link": "https://github.com/armollica/force-chart"
+  },
+  {
+    "name": "d3-ring-note",
+    "title": "d3.ringNote",
+    "link": "https://github.com/armollica/d3-ring-note"
+  },
+  {
+    "name": "d3-triangle-bin",
+    "title": "d3.triangleBin",
+    "link": "https://github.com/armollica/triangle-bin"
+  },
+  {
+    "name": "k-d-tree",
+    "title": "KDTree",
+    "link": "https://github.com/armollica/KDTree"
+  },
+  {
+    "name": "bin-pack",
+    "title": "BinPack",
+    "link": "https://github.com/armollica/bin-pack"
+  },
+  {
+    "name": "blocks",
+    "title": "My Bl.ocks",
+    "link": "http://bl.ocks.org/armollica"
+  },
+  {
+    "name": "hsl-decomposition",
+    "title": "HSL Decomposition",
+    "link": "http://bl.ocks.org/armollica/0dfac0e7c3d33fcca86b"
+  },
+  {
+    "name": "declining-manufacturing",
+    "title": "Shrinking Manufacturing",
+    "link": "http://bl.ocks.org/armollica/e99f78d8f48e681c7d9f1d8dcefc10a6"
+  },
+  {
+    "name": "state-lotteries",
+    "title": "State Lottos",
+    "link": "http://bl.ocks.org/armollica/6391d8ecd6b010a9c8ca"
+  },
+  {
+    "name": "bubbly-jobs",
+    "title": "Bubbly Jobs Chart",
+    "link": "http://bl.ocks.org/armollica/93491e923d72e81df769"
+  },
+  {
+    "name": "movie-genre",
+    "title": "Movie Ratings by Genre",
+    "link": "http://bl.ocks.org/armollica/2dcfd66a64922990995f905aa0dc4d7b"
+  },
+  {
+    "name": "manufacturing-small-multiple",
+    "title": "Manufacturing Lattice",
+    "link": "http://bl.ocks.org/armollica/6314f45890bcaaa45c808b5d2b0c602f"
+  }
+]
