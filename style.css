@@ -41,6 +41,8 @@ a {
   line-height: 40px;
   line-height: 2.5rem;
   font-weight: 700;
+  margin-bottom: 25px;
+  margin-bottom: 2rem;
 }
 
 .heading img {
@@ -50,7 +52,6 @@ a {
 }
 
 .heading p {
-  text-indent: 2em;
   font-size: 17px;
   font-size: 1.0625rem;
   line-height: 26px;
